@@ -1,3 +1,23 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@font-face {
+  font-family: "Insomnia";
+  src: url(../src/assets/fonts/inconsolata/Inconsolata-VariableFont_wdth\wght.ttf);
+}
+
+@font-face {
+  font-family: "Inter";
+  src: url(../src/assets/fonts/inter/Inter-VariableFont_slnt\wght.ttf);
+}
+
+@font-face {
+  font-family: "Lora-Regular";
+  src: url(../src/assets/fonts/lora/Lora-VariableFont_wght.ttf);
+}
+
+@font-face {
+  font-family: "Lora-Italic";
+  src: url(../src/assets/fonts/lora/Lora-Italic-VariableFont_wght.ttf);
+}
